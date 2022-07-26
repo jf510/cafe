@@ -4,7 +4,7 @@ export default {
   type: "document",
   fields: [
     {
-      image: "image",
+      name: "image",
       title: "Image",
       type: "array",
       of: [{ type: "image" }],
